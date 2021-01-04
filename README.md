@@ -10,8 +10,7 @@
 Kubernetes Dashboard is a general purpose, web-based UI for Kubernetes clusters. It allows users to manage applications running in the cluster and troubleshoot them, as well as manage the cluster itself.
 
 ![Dashboard UI workloads page](docs/images/dashboard-ui.png)
-
-## Getting Started
+# Getting Started
 
 **IMPORTANT:** Read the [Access Control](docs/user/access-control/README.md) guide before performing any further steps. The default Dashboard deployment contains a minimal set of RBAC privileges needed to run.
 
